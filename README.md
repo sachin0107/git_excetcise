@@ -1,2 +1,2 @@
-# git_excetcise
+# git_exercise
 for exploring git commands
