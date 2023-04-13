@@ -3,3 +3,5 @@ for exploring git commands
 sachin dhana paul
 change made by srihari
 srihari performed multiprocessing
+for i in range(10):
+    print(i)
